@@ -1,4 +1,6 @@
 # CountingRod
+## 算筹Wiki介绍
+[Wiki](https://zh.wikipedia.org/wiki/%E7%AE%97%E7%AD%B9)
 ## 算筹数图生成器
  - 用于生成算筹数图
  - in.txt是输入文件，最后一行必须是回车，中间间隔用一个,半角逗号
